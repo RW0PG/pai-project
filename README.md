@@ -4,9 +4,8 @@
 * react.js
 * express
 
-> frontend uses - http://localhost:80
+> app uses - http://localhost:81
 
->backend uses - http://localhost:81
 
 Configuration in file: `docker-compose.yml`
 
